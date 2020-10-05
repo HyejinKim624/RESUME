@@ -66,6 +66,9 @@ __강조 문구__
 |왼쪽 확장|||
 |||오른쪽 확장|
 
+### 이미지 삽입하기
+![Alt text](bsion파일_flex파일_실행.png "test image")  
+<img src=bsion파일_flex파일_실행.png width=500>
 
 [eclipse]: http://www.eclipse.org
 [google]: https://www.google.com  
